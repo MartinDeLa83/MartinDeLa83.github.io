@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Analista programador en Java.
 
-### More Information
+Actualmente enfocado en el aprendizaje y aplicación de:
 
-A place to include any other types of information that you'd like to include about yourself.
+- desarrollos de JAVA con Spring.
+- servicios REST con Spring
+- arquitectura de MICROSERVICIOS (SPRING BOOT , DOCKER)
+- modelos de integración y despliegue contínuo
+- bases de datos no relacionales (MONGODB)
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Email de contacto
+
+[email@domain.com](mailto:martindelacruzdelgado83@gmail.com)
