@@ -19,3 +19,5 @@ Pero los pasos serían:
 - Para abrir la consola: **C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe**
 
 - En la consola podemos teclear>show databases...
+
+![_config.yml]({{ site.baseurl }}/images/SpringMongoWindows/mongodb.PNG)
