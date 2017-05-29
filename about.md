@@ -17,4 +17,4 @@ Actualmente enfocado en el aprendizaje y aplicación de:
 
 ### Email de contacto
 
-[email@domain.com](mailto:martindelacruzdelgado83@gmail.com)
+[martindelacruzdelgado83@gmail.com](mailto:email@domain.com)
