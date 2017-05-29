@@ -4,6 +4,7 @@ title: Spring Boot + Servicio REST (CRUD) + MongoDB (Windows 10)!
 ---
 
 1. **Instalando MongoDB...**
+
 He seguido la documentación oficial: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 Pero los pasos serían:
 
@@ -23,5 +24,5 @@ SpringBootMongoApplication que es lanzador del proyecto spring boot
 - En src/main/resources encontramos un fichero application.properties que es en donde se agregan las configuraciones asociadas al proyecto spring boot
 En nuestro caso tendremos que editarlo para integrar la configuración de MongoDB
 
-3.
+
 
