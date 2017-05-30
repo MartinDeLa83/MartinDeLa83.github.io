@@ -21,3 +21,13 @@ Pero los pasos serían:
 - En la consola podemos teclear>show databases...
 
 ![_config.yml]({{ site.baseurl }}/images/SpringMongoWindows/mongodb.PNG)
+
+En mongoDB podemos hacer la siguiente relación: una colección es una tabla y un documento una fila.
+
+
+~~~
+Ejemplo: En la colección users existen 2 documentos
+ db.users.find()
+{ "_id" : ObjectId("592300c295fa5900ffc27363"), "name" : "Martin", "age" : 34 }
+{ "_id" : ObjectId("592300f795fa5900ffc27364"), "name" : "Juan", "age" : 45 }
+~~~

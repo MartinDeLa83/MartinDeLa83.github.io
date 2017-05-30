@@ -3,7 +3,7 @@ layout: post
 title: Spring Boot + Servicio REST (CRUD) + MongoDB (Windows 10) 2/3!
 ---
 
-**2 Creando un Proyecto Spring Boot...**
+**Creando un Proyecto Spring Boot...**
 
 Asumimos que tenemos ya instalado **spring tool suite**
 
@@ -33,7 +33,7 @@ En el pom.xml...
 - Podemos ver que se nos ha generado una clase:  
 **SpringBootMongoApplication** que es el **lanzador del proyecto spring boot**
 
-- En src/main/resources encontramos un fichero application.properties que es en donde se agregan las configuraciones asociadas al proyecto spring boot.
+- En **src/main/resources** encontramos un fichero application.properties que es en donde se agregan las configuraciones asociadas al proyecto spring boot.
 En nuestro caso tendremos que editarlo para integrar la configuración de MongoDB:
 
 ~~~
