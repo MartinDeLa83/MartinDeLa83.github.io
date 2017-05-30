@@ -85,8 +85,8 @@ public class UsuarioRestController {
 
 ![_config.yml]({{ site.baseurl }}/images/SpringMongoWindows/STS.PNG)
 
-- Con todo esto ya podemos probar nuestro servicio REST, por ejemplo con POSTMAN. 
-Para ejecutar elproyecto spring boot run as->Spring Boot App. Se ejecutará un jar que que lleva un tomcat embebido y el servidor junto con el proyecto quedarán arrancados.
+- Con todo esto ya podemos probar nuestro servicio REST, por ejemplo con **POSTMAN**. 
+Para ejecutar el proyecto spring boot **run as->Spring Boot App**. Se ejecutará un jar que que lleva un tomcat embebido y el servidor junto con el proyecto quedarán arrancados.
 
 - El proyecto se puede descargar en [Github](https://github.com/MartinDeLa83/SpringBootMongo). Además lleva incluído en el raíz Usuario.postman_collection.json para poder importarlo en postman.
 
