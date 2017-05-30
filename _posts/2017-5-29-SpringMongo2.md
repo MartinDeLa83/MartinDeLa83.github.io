@@ -31,7 +31,7 @@ En el pom.xml...
 ~~~
 
 - Podemos ver que se nos ha generado una clase:  
-**SpringBootMongoApplication** que es el **lanzador del proyecto spring boot**
+**SpringBootMongoApplication** que es el **lanzador del proyecto spring boot**.
 
 - En **src/main/resources** encontramos un fichero **application.properties** que es en donde se agregan las configuraciones asociadas al proyecto spring boot.
 En nuestro caso tendremos que editarlo para integrar la configuración de MongoDB:

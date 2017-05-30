@@ -40,7 +40,7 @@ public interface UsuarioMongoRepository extends MongoRepository<Usuario, Long> {
 }
 ~~~
 
-- Para finalizar necesitamos nuestro rest controller donde se ejecutarán las peticiones http
+- Para finalizar necesitamos nuestro rest controller donde se ejecutarán las peticiones http.
 
 ~~~
 
